@@ -2,7 +2,7 @@
 
 Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
-### Markdown
+### Stop/Djvu Ransomware [ .hoop ]
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
