@@ -52,11 +52,12 @@ Trước hết, bạn cần ngắt nguồn máy tính của mình, nếu không 
 
 Có một số hạn chế nhất định liên quan đến những file có thể được khôi phục. Nói về tất cả các phiên bản của STOP Djvu, bạn có thể giải mã được nếu chúng được giải mã thông qua một Public key có sẵn với tool Emsisoft Decryptor. Đối với các loại Djvu cũ, các file cũng có thể được giải mã bằng cách sử dụng các cặp file gốc / mã hóa được upload lên trang [STOP Djvu Submission](https://decrypter.emsisoft.com/submit/stopdjvu/). Hãy nhớ rằng điều này không áp dụng cho Djvu mới được phát triển sau tháng 8 năm 2019.
 
-# File mẫu là gì?
+# **File mẫu là gì**?
 
 Đây là cặp file giống hệt nhau (vì chúng là cùng một dữ liệu chính xác), ngoại trừ một file trùng lặp, được mã hóa và file còn lại thì không. Trang [STOP Djvu Submission](https://decrypter.emsisoft.com/submit/stopdjvu/) có thể phân tích sự khác biệt giữa file được mã hóa và bản sao gốc của cùng một file, cho phép nó xác định cách giải mã file đó. Đối với hầu hết các nạn nhân có biến thể cũ hơn của STOP / Djvu, gửi các cặp file sẽ là cách duy nhất để lấy lại file của bạn.
 
-# Liên hệ
+# **Liên hệ**
+
 [Facebook](fb.com/giaimaransomware)
 
 [Email](giaimaransomware@gmail.com)
