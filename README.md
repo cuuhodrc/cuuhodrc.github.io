@@ -1,4 +1,4 @@
-# [**Cứu hộ DRC**](fb.com/giaimaransomware)
+# [**Cứu hộ DRC**](https://www.facebook.com/giaimaransomware)
 
 Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
@@ -58,8 +58,8 @@ Có một số hạn chế nhất định liên quan đến những file có th�
 
 # **Liên hệ**
 
-[Facebook](fb.com/giaimaransomware)
+[Facebook](https://www.facebook.com/giaimaransomware)
 
 [Email](giaimaransomware@gmail.com)
 
-[Call](0903408066)
+[Phone](0903408066)
