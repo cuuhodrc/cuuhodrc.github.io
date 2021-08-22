@@ -1,4 +1,4 @@
-# **Cứu hộ DRC**
+# [**Cứu hộ DRC**](fb.com/giaimaransomware)
 
 Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
