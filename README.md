@@ -8,7 +8,9 @@ Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
 ![Image](Images/STOP-Decryptor.png)
 
-Ghi chú đòi tiền chuộc "_readme.txt" chứa văn bản sau:
+* STOP / DJVU Ransomware mã hóa các files của nạn nhân bằng Salsa20 và gắn tên sau đuôi files ví dụ: “.wrui”, “.pcqq”, “.ytbn”, “.nusm”, “.ehiz“, v.v.
+
+* Ghi chú đòi tiền chuộc "_readme.txt" chứa văn bản sau:
 
 ```markdown
 ATTENTION!
@@ -40,11 +42,12 @@ Your personal ID:
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+**Ghi chú!**    |
+------------ |
+Trước hết, bạn cần ngắt nguồn máy tính của mình, nếu không nó sẽ tiếp tục mã hóa dữ liệu của bạn nhiều lần và lây nhiễm sang các máy tính trong cùng mạng nội bộ. Trong trường hợp hệ thống của bạn bị nhiễm bằng Windows Remote Desktop ( RDP ), chúng tôi cũng đặc biệt khuyên bạn nên thay đổi tất cả mật khẩu của tất cả người dùng hiện có được phép đăng nhập từ xa và kiểm tra tài khoản người dùng cục bộ xem có các tài khoản phụ khác không mà các Hacker có thể tạo ra. Đối với máy tính cá nhân phải đổi lại hết mật khẩu cá nhân.|
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuuhodrc/cuuhodrc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Liên hệ
 [Facebook](fb.com/giaimaransomware)
