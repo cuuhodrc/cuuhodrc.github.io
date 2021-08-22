@@ -48,13 +48,15 @@ Your personal ID:
 Trước hết, bạn cần ngắt nguồn máy tính của mình, nếu không nó sẽ tiếp tục mã hóa dữ liệu của bạn nhiều lần và lây nhiễm sang các máy tính trong cùng mạng nội bộ. Trong trường hợp hệ thống của bạn bị nhiễm bằng Windows Remote Desktop ( RDP ), chúng tôi cũng đặc biệt khuyên bạn nên thay đổi tất cả mật khẩu của tất cả người dùng hiện có được phép đăng nhập từ xa và kiểm tra tài khoản người dùng cục bộ xem có các tài khoản phụ khác không mà các Hacker có thể tạo ra. Đối với máy tính cá nhân phải đổi lại hết mật khẩu cá nhân.| Ứng dụng này cần được kết nối với web khi đang hoạt động để nhận hướng dẫn giải mã từ máy chủ.
 
 # **Cập nhật ngày 19 tháng 8 năm 2021**
-- *.hoop
+- .hoop
 
-Có một số hạn chế nhất định liên quan đến những file có thể được khôi phục. Nói về tất cả các phiên bản của STOP Djvu, bạn có thể giải mã được nếu chúng được giải mã thông qua một Public key có sẵn với tool Emsisoft Decryptor. Đối với các loại Djvu cũ, các file cũng có thể được giải mã bằng cách sử dụng các cặp file gốc / mã hóa được upload lên trang STOP Djvu Submission. Hãy nhớ rằng điều này không áp dụng cho Djvu mới được phát triển sau tháng 8 năm 2019.
+Có một số hạn chế nhất định liên quan đến những file có thể được khôi phục. Nói về tất cả các phiên bản của STOP Djvu, bạn có thể giải mã được nếu chúng được giải mã thông qua một Public key có sẵn với tool Emsisoft Decryptor. Đối với các loại Djvu cũ, các file cũng có thể được giải mã bằng cách sử dụng các cặp file gốc / mã hóa được upload lên trang [STOP Djvu Submission](https://decrypter.emsisoft.com/submit/stopdjvu/). Hãy nhớ rằng điều này không áp dụng cho Djvu mới được phát triển sau tháng 8 năm 2019.
 
 # File mẫu là gì?
 
-### Liên hệ
+Đây là cặp file giống hệt nhau (vì chúng là cùng một dữ liệu chính xác), ngoại trừ một file trùng lặp, được mã hóa và file còn lại thì không. Trang [STOP Djvu Submission](https://decrypter.emsisoft.com/submit/stopdjvu/) có thể phân tích sự khác biệt giữa file được mã hóa và bản sao gốc của cùng một file, cho phép nó xác định cách giải mã file đó. Đối với hầu hết các nạn nhân có biến thể cũ hơn của STOP / Djvu, gửi các cặp file sẽ là cách duy nhất để lấy lại file của bạn.
+
+# Liên hệ
 [Facebook](fb.com/giaimaransomware)
 
 [Email](giaimaransomware@gmail.com)
