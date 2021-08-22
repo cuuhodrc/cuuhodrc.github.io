@@ -43,11 +43,11 @@ Your personal ID:
 ```
 
 
-**Ghi chú!**    |
------------- |
+**Ghi chú!**|
+------------|
 Trước hết, bạn cần ngắt nguồn máy tính của mình, nếu không nó sẽ tiếp tục mã hóa dữ liệu của bạn nhiều lần và lây nhiễm sang các máy tính trong cùng mạng nội bộ. Trong trường hợp hệ thống của bạn bị nhiễm bằng Windows Remote Desktop ( RDP ), chúng tôi cũng đặc biệt khuyên bạn nên thay đổi tất cả mật khẩu của tất cả người dùng hiện có được phép đăng nhập từ xa và kiểm tra tài khoản người dùng cục bộ xem có các tài khoản phụ khác không mà các Hacker có thể tạo ra. Đối với máy tính cá nhân phải đổi lại hết mật khẩu cá nhân.|
-
-
+**Cảnh báo!**
+Ứng dụng này cần được kết nối với web khi đang hoạt động để nhận hướng dẫn giải mã từ máy chủ.|
 
 ### Liên hệ
 [Facebook](fb.com/giaimaransomware)
