@@ -1,8 +1,10 @@
-## Cứu hộ DRC
+## **Cứu hộ DRC**
 
 Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
 ### Stop/Djvu Ransomware [ .hoop ]
+
+![Image](Images/STOP-Decryptor.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
