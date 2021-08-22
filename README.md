@@ -1,10 +1,10 @@
-## **Cứu hộ DRC**
+# **Cứu hộ DRC**
 
 Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
 [Thông tin tổ chức](https://tinnhiemmang.vn/danh-ba-tin-nhiem/cuu-ho-drc-1628756204)
 
-### Stop/Djvu Ransomware [ .hoop ]
+## Stop/Djvu Ransomware [ .hoop ]
 
 ![Image](Images/STOP-Decryptor.png)
 
@@ -43,11 +43,16 @@ Your personal ID:
 ```
 
 
-**Ghi chú!**|
-------------|
-Trước hết, bạn cần ngắt nguồn máy tính của mình, nếu không nó sẽ tiếp tục mã hóa dữ liệu của bạn nhiều lần và lây nhiễm sang các máy tính trong cùng mạng nội bộ. Trong trường hợp hệ thống của bạn bị nhiễm bằng Windows Remote Desktop ( RDP ), chúng tôi cũng đặc biệt khuyên bạn nên thay đổi tất cả mật khẩu của tất cả người dùng hiện có được phép đăng nhập từ xa và kiểm tra tài khoản người dùng cục bộ xem có các tài khoản phụ khác không mà các Hacker có thể tạo ra. Đối với máy tính cá nhân phải đổi lại hết mật khẩu cá nhân.|
-**Cảnh báo!**
-Ứng dụng này cần được kết nối với web khi đang hoạt động để nhận hướng dẫn giải mã từ máy chủ.|
+**Ghi chú!** | **Cảnh báo!**
+------------ | ------------
+Trước hết, bạn cần ngắt nguồn máy tính của mình, nếu không nó sẽ tiếp tục mã hóa dữ liệu của bạn nhiều lần và lây nhiễm sang các máy tính trong cùng mạng nội bộ. Trong trường hợp hệ thống của bạn bị nhiễm bằng Windows Remote Desktop ( RDP ), chúng tôi cũng đặc biệt khuyên bạn nên thay đổi tất cả mật khẩu của tất cả người dùng hiện có được phép đăng nhập từ xa và kiểm tra tài khoản người dùng cục bộ xem có các tài khoản phụ khác không mà các Hacker có thể tạo ra. Đối với máy tính cá nhân phải đổi lại hết mật khẩu cá nhân.| Ứng dụng này cần được kết nối với web khi đang hoạt động để nhận hướng dẫn giải mã từ máy chủ.
+
+# **Cập nhật ngày 19 tháng 8 năm 2021**
+- *.hoop
+
+Có một số hạn chế nhất định liên quan đến những file có thể được khôi phục. Nói về tất cả các phiên bản của STOP Djvu, bạn có thể giải mã được nếu chúng được giải mã thông qua một Public key có sẵn với tool Emsisoft Decryptor. Đối với các loại Djvu cũ, các file cũng có thể được giải mã bằng cách sử dụng các cặp file gốc / mã hóa được upload lên trang STOP Djvu Submission. Hãy nhớ rằng điều này không áp dụng cho Djvu mới được phát triển sau tháng 8 năm 2019.
+
+# File mẫu là gì?
 
 ### Liên hệ
 [Facebook](fb.com/giaimaransomware)
