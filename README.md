@@ -2,6 +2,8 @@
 
 Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
+[Thông tin tổ chức](https://tinnhiemmang.vn/danh-ba-tin-nhiem/cuu-ho-drc-1628756204)
+
 ### Stop/Djvu Ransomware [ .hoop ]
 
 ![Image](Images/STOP-Decryptor.png)
@@ -45,5 +47,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cuuhodrc/cuuhodrc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Liên hệ
+[Facebook](fb.com/giaimaransomware)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Email](giaimaransomware@gmail.com)
+
+[Call](0903408066)
