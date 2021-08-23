@@ -5,7 +5,7 @@ Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 [Thông tin tổ chức](https://tinnhiemmang.vn/danh-ba-tin-nhiem/cuu-ho-drc-1628756204)
 
 <details>
-<summary>**Stop/Djvu Ransomware**</summary>
+<summary>Stop/Djvu Ransomware</summary>
 
 ![Image](Images/STOP-Decryptor.png)
 
