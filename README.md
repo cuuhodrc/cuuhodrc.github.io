@@ -62,7 +62,6 @@ Có một số hạn chế nhất định liên quan đến những file có th�
 - Lựa chọn giải mã
 
 # **Giải mã file bằng cách nào**
-
 </details>
 
 # **Liên hệ**
