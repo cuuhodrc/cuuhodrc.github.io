@@ -60,6 +60,6 @@ Có một số hạn chế nhất định liên quan đến những file có th�
 
 [Facebook](https://www.facebook.com/giaimaransomware)
 
-[Email](email:giaimaransomware@gmail.com)
+[Email](mailto:giaimaransomware@gmail.com)
 
 [Phone](0903408066)
