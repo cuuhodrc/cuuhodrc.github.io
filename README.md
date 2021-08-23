@@ -56,6 +56,11 @@ Có một số hạn chế nhất định liên quan đến những file có th�
 
 Đây là cặp file giống hệt nhau (vì chúng là cùng một dữ liệu chính xác), ngoại trừ một file trùng lặp, được mã hóa và file còn lại thì không. Trang [STOP Djvu Submission](https://decrypter.emsisoft.com/submit/stopdjvu/) có thể phân tích sự khác biệt giữa file được mã hóa và bản sao gốc của cùng một file, cho phép nó xác định cách giải mã file đó. Đối với hầu hết các nạn nhân có biến thể cũ hơn của STOP / Djvu, gửi các cặp file sẽ là cách duy nhất để lấy lại file của bạn.
 
+- Giả mã file bằng cách nào?
+
+- Lựa chọn giải mã
+
+
 # **Liên hệ**
 
 [Facebook](https://www.facebook.com/giaimaransomware)
