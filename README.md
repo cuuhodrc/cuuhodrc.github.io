@@ -8,7 +8,7 @@ Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
 [Zeppelin Ransomware](https://cuuhodrc.github.io/Websites/Zeppelin/index.html)
 
-// [Media_repair](https://cuuhodrc.github.io/Websites/Media_repair/index.html)
+[Media_repair](https://cuuhodrc.github.io/Websites/Media_repair/index.html)
 
 # **Liên hệ**
 
