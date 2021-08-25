@@ -6,7 +6,9 @@ Chuyên cứu dữ liệu chuyên nghiệp, giải mã virus mã hóa
 
 [Stop/Djvu Ransomware](https://cuuhodrc.github.io/Websites/StopDjvu/index.html)
 
-[Media_repair](https://cuuhodrc.github.io/Websites/Media_repair/index.html)
+[Zeppelin Ransomware](https://cuuhodrc.github.io/Websites/Zeppelin/index.html)
+
+// [Media_repair](https://cuuhodrc.github.io/Websites/Media_repair/index.html)
 
 # **Liên hệ**
 
