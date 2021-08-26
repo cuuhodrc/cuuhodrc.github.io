@@ -14,4 +14,8 @@
 
 **[Facebook](https://www.facebook.com/giaimaransomware)**
 
-<a href="https://tinnhiemmang.vn/danh-ba-tin-nhiem/cuuhodrcgithubio-1629953643" title="Chung nhan Tin Nhiem Mang" target="_blank"><img src="https://tinnhiemmang.vn/handle_cert?id=cuuhodrc.github.io" width="150px" height="auto" alt="Chung nhan Tin Nhiem Mang"></a>
+## **[Chứng nhận tính nhiệm mạng](https://tinnhiemmang.vn/danh-ba-tin-nhiem/cuuhodrcgithubio-1629953643)**
+
+![image](https://tinnhiemmang.vn/handle_cert?id=cuuhodrc.github.io)
+
+
